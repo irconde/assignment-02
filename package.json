@@ -1,0 +1,29 @@
+{
+  "name": "assignment-02",
+  "version": "1.0.0",
+  "description": "This is my first node application",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irconde/assignment-02.git"
+  },
+  "keywords": [
+    "html",
+    "javascript",
+    "whatever"
+  ],
+  "author": "irconde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irconde/assignment-02/issues"
+  },
+  "homepage": "https://github.com/irconde/assignment-02#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
